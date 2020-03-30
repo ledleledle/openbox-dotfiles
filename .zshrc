@@ -100,3 +100,7 @@ source $ZSH/oh-my-zsh.sh
 
 #composer path for laravel
 export PATH="$HOME/.composer/vendor/bin:$PATH"
+#Android SDK
+export ANDROID_HOME=$HOME/Android/Sdk
+#Flutter SDK
+export PATH="$PATH:$ANDROID_HOME/flutter/bin:$HOME/.local/bin:$ANDROID_HOME:$ANDROID_HOME/platform-tools:$ANDROID_HOME/tools/bin"
