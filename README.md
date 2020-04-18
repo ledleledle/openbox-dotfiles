@@ -22,6 +22,10 @@ Backup before re-installing OS
     <td>Panel</td>
     <td>tint2, polybar</td>
   </tr>
+  <tr>
+    <td>Notification</td>
+    <td>Dunst</td>
+  </tr>
 </table>
 
 ![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/2020-03-30-185645_1366x768_scrot.png)
