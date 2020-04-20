@@ -39,4 +39,4 @@ Original conky from <a href="https://github.com/addy-dclxvi/conky-theme-collecti
 For html script you can find it on <code>.dash</code> folder. I use firefox browser, so just set it on Homepage setting. For firefox navbar you can find it in <code>.mozila</code> folder. I won't give you any tutorial for it, i assume "if you looking for it, you know what to do with that".
 
 This config will not 100% hide your navbar.
-![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/Peek 2020-04-20 21-35.gif)
+![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/mozila.gif)
