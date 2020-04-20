@@ -36,4 +36,7 @@ Original conky from <a href="https://github.com/addy-dclxvi/conky-theme-collecti
 ![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-18-22_1366x768.png)
 -
 
-For html script you can find it on <code>.dash</code> folder. I use firefox browser, so just set it on Homepage setting. For firefox navbar i'll add it latter, so you can hide your browser navbar, yeaah looks good and minimalist (but not recommended for daily use).
+For html script you can find it on <code>.dash</code> folder. I use firefox browser, so just set it on Homepage setting. For firefox navbar you can find it in <code>.mozila</code> folder. I won't give you any tutorial for it, i assume "if you find it, you know what to do with that".
+
+This config will not 100% hide your navbar.
+![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/Peek 2020-04-20 21-35.gif)
