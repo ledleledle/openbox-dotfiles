@@ -40,7 +40,7 @@ This config will not 100% hide your navbar.
 
 Spicetify
 -
-Yeah... make your spotifu more spice!! all the themes i collect is from <a href="https://github.com/morpheusthewhite/spicetify-themes">morpheusthewhite</a> you can check that. All the installation step is in <a href="https://github.com/khanhas/spicetify-cli">here</a>.
+Yeah... make your spotifu more spicy!! all the themes i collect is from <a href="https://github.com/morpheusthewhite/spicetify-themes">morpheusthewhite</a> you can check that. All the installation step is in <a href="https://github.com/khanhas/spicetify-cli">here</a>. You can also hear my songs :) HEHEHE... You'll love it <3
 
 ![ss4](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-10-59_1366x768.png)
 ![ss5](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-21-06_1343x719.png)
