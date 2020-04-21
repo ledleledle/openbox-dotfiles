@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <th>Object</th>
-    <th>Application</th>
+    <th>Item</th>
+    <th>Value</th>
   </tr>
   <tr>
     <td>OS</td>
@@ -29,13 +29,11 @@
 
 ![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/2020-03-30-185645_1366x768_scrot.png)
 -
-
 Original conky from <a href="https://github.com/addy-dclxvi/conky-theme-collections/tree/master/sidekick">here</a> i'm just add simple Python script, you can check that on folder <code>~/.conky/res</code>.
 
 ![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-18-22_1366x768.png)
 -
-
-For html script you can find it on <code>.dash</code> folder. I use firefox browser, so just set it on Homepage setting. For firefox navbar you can find it in <code>.mozila</code> folder. I won't give you any tutorial for it, i assume "if you looking for it, you know what to do with that".
+For html script you can find it on <code>.dash</code> folder. I use Firefox Browser, so just set it on Homepage setting. For firefox navbar you can find it in <code>.mozila</code> folder. I won't give you any tutorial for it, i assume <code>"if you looking for it, you know what to do with that"</code>.
 
 This config will not 100% hide your navbar.
 ![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/mozila.gif)
