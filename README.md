@@ -22,6 +22,14 @@
     <td>tint2, polybar</td>
   </tr>
   <tr>
+    <td>Text Editor</td>
+    <td>nano, vim, Geany, Code, Sublime-Text-3</td>
+  </tr>
+  <tr>
+    <td>Menu</td>
+    <td>Rofi dmenu</td>
+  </tr>
+  <tr>
     <td>Notification</td>
     <td>Dunst</td>
   </tr>
