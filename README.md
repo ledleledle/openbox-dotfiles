@@ -1,6 +1,5 @@
 # Dotfiles
 
-Backup before re-installing OS
 <table>
   <tr>
     <th>Object</th>
