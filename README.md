@@ -1,6 +1,5 @@
 <p align="center"><a name="top" href="https://github.com/ledleledle/dotfiles"><img src="https://raw.githubusercontent.com/ledleledle/dotfiles/master/dotfiles-logo.png"></a></p>
 
-Backup before re-installing OS
 <table>
   <tr>
     <th>Object</th>
