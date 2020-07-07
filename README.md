@@ -35,11 +35,11 @@
   </tr>
 </table>
 
-![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/2020-03-30-185645_1366x768_scrot.png)
+![ss1](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ss/2020-03-30-185645_1366x768_scrot.png)
 -
 Original conky from <a href="https://github.com/addy-dclxvi/conky-theme-collections/tree/master/sidekick">addy-dclxvi</a> sensei, i'm just add simple Python script, you can check that on folder <code>.config/conky/res</code>.
 
-![ss2](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-18-22_1366x768.png)
+![ss2](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ss/ArchLabs_2020-04-18-22_1366x768.png)
 -
 For html script you can find it on <code>.dash</code> folder. I use Firefox Browser, so just set it on Homepage setting. For firefox navbar you can find it in <code>.mozila</code> folder. I won't give you any tutorial for it, i assume <code>"if you looking for it, you know what to do with that"</code>.
 
@@ -50,5 +50,8 @@ Spicetify
 -
 Yeah... make your spotifu more spicy!! all the themes i collect is from <a href="https://github.com/morpheusthewhite/spicetify-themes">morpheusthewhite</a> you can check that. All the installation step is in <a href="https://github.com/khanhas/spicetify-cli">here</a>. You can also hear my songs :) HEHEHE... You'll love it <3
 
-![ss4](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-10-59_1366x768.png)
-![ss5](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ArchLabs_2020-04-21-06_1343x719.png)
+![ss4](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ss/ArchLabs_2020-04-10-59_1366x768.png)
+![ss5](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ss/ArchLabs_2020-04-21-06_1343x719.png)
+
+### New Config
+![ss5](https://raw.githubusercontent.com/ledleledle/dotfiles/master/ss/ArchLabs_2020-07-07-36_1366x768.png)
