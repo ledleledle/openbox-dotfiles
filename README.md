@@ -1,4 +1,4 @@
-<p align="center"><a name="top" href="https://github.com/ledleledle/dotfiles"><img src="https://raw.githubusercontent.com/ledleledle/dotfiles/master/dotfiles-logo.png"></a></p>
+<p align="center"><a name="top" href="https://github.com/ledleledle/dotfiles"><img src="https://raw.githubusercontent.com/ledleledle/dotfiles/master/logo.png"></a></p>
 
 <table>
   <tr>
